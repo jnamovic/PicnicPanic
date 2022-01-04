@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.picnicpanicforrealthistime.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Jonathan Namovic\\Documents\\UnityProjects\\antgame\\Picnic Panic for real this time\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Picnic Panic for real this time [Testing]"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{7ee6ac97-eb02-4e44-876e-281a470823dc}">
+        <property name="assetPath">
+            <value>loop2-comp-bpm66.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>16.363650793650795</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{d032b860-a2de-464e-8b49-76c96d89d4d7}</destination>
+        </relationship>
+    </object>
+</objects>
